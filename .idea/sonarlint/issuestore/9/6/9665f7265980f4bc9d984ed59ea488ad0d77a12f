@@ -1,0 +1,6 @@
+
+Jsquid:S1481".Remove this unused "dataModel" local variable.(“Èëº8Ï¾ú•Á+
+‹squid:S1319"oThe type of the "data" object should be an interface such as "List" rather than the implementation "ArrayList".(¡¦Îå8¨—ë•Á+
+Gsquid:S1068"+Remove this unused "dataSet" private field.(‰·‡û8¨—ë•Á+
+dsquid:S1226"HIntroduce a new variable instead of reusing the parameter "convertView".(µ›ÐÝ8è–ú•Á+
+Ysquid:S1854"=Remove this useless assignment to local variable "dataModel".(“Èëº8Ï¾ú•Á+

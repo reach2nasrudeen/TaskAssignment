@@ -1,0 +1,6 @@
+
+Asquid:S1166"%Either log or rethrow this exception.(ï­£Ä8ðö‰–Á+
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8ðö‰–Á+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ø¿ªâùÿÿÿÿ8åüŒ–Á+
+Fsquid:S1166"%Either log or rethrow this exception.(÷¿­¹ÿÿÿÿÿ8ðö‰–Á+
+Vsquid:S1141"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ðö‰–Á+

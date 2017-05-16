@@ -1,0 +1,5 @@
+
+Šsquid:S1319"pThe type of the "users" object should be an interface such as "List" rather than the implementation "ArrayList".(¬üñýüÿÿÿÿ
+8squid:S1659"#Declare "email" on a separate line.(ÞÞ¾®
+6squid:S1659"!Declare "lng" on a separate line.(ßé¾Ÿ
+Asquid:S1659"%Declare "website" on a separate line.(£¹Ú³8òíÒ–Á+
